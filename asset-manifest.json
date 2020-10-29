@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spaReactTrainingApp/static/css/main.0fb8f59b.chunk.css",
+    "main.js": "/spaReactTrainingApp/static/js/main.0f4beb99.chunk.js",
+    "main.js.map": "/spaReactTrainingApp/static/js/main.0f4beb99.chunk.js.map",
+    "runtime-main.js": "/spaReactTrainingApp/static/js/runtime-main.6612c016.js",
+    "runtime-main.js.map": "/spaReactTrainingApp/static/js/runtime-main.6612c016.js.map",
+    "static/js/2.0fb06822.chunk.js": "/spaReactTrainingApp/static/js/2.0fb06822.chunk.js",
+    "static/js/2.0fb06822.chunk.js.map": "/spaReactTrainingApp/static/js/2.0fb06822.chunk.js.map",
+    "index.html": "/spaReactTrainingApp/index.html",
+    "static/css/main.0fb8f59b.chunk.css.map": "/spaReactTrainingApp/static/css/main.0fb8f59b.chunk.css.map",
+    "static/js/2.0fb06822.chunk.js.LICENSE.txt": "/spaReactTrainingApp/static/js/2.0fb06822.chunk.js.LICENSE.txt",
+    "static/media/img1.2e0a12c2.jpg": "/spaReactTrainingApp/static/media/img1.2e0a12c2.jpg",
+    "static/media/img2.461a7003.jpg": "/spaReactTrainingApp/static/media/img2.461a7003.jpg",
+    "static/media/img3.51c777d5.jpg": "/spaReactTrainingApp/static/media/img3.51c777d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6612c016.js",
+    "static/js/2.0fb06822.chunk.js",
+    "static/css/main.0fb8f59b.chunk.css",
+    "static/js/main.0f4beb99.chunk.js"
+  ]
+}
